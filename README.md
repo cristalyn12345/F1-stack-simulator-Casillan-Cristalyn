@@ -1,3 +1,17 @@
+# Flask Stack Simulator
+
+**Name:** Casillan, Cristalyn
+**Section:** 4-2
+**Original starter repository:** https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter
+
+## Activity Description
+Preparation activity for the ELEC 4 Flask Stack Simulator. I cloned the starter
+(Python, Flask, HTML, CSS, Bootstrap, JavaScript, jQuery), explored its files,
+read the reading activity, and answered the guide questions. The TODOs are left
+unfinished and will be completed during the class demonstration.
+
+---
+
 # Flask Stack Simulator startup template
 
 This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
