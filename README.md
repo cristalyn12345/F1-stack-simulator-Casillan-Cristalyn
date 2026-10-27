@@ -1,7 +1,7 @@
 # Flask Stack Simulator
 
 **Name:** Casillan, Cristalyn
-**Section:** 4-2
+**Section:** ______
 **Original starter repository:** https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter
 
 ## Activity Description
